@@ -5,14 +5,14 @@ end
 def contains_a
 end
 
-def begins_with_r
+def first_wa
 end
 
-def begins_with_r
+def remove_non_strings
 end
 
-def begins_with_r
+def count_elements
 end
 
-def begins_with_r
+def 
 end
